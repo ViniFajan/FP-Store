@@ -30,7 +30,7 @@ nav {
 }
 
 main {
-    background: url('/Navbar/assets/images/bg\ photo.png') no-repeat center center;
+    background: url('bg\ photo.png') no-repeat center center;
     background-size: cover;
     height: 92vh;
 }
